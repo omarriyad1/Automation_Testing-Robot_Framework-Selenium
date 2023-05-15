@@ -18,8 +18,8 @@ name) in the search bar.
 ● Then the search results page should display movies related to the search query.
 
 ● And the first search result should be "The Shawshank Redemption" movie i.e. the name
-
 written in the search query.
+
 Scenario 2: 
 
 (Verify user can access the top-rated movies section)
